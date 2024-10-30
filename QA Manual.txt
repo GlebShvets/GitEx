@@ -7,5 +7,6 @@
 <body>
     <h1>Вітаю!</h1>
     <p>Це мій сайт.</p>
+    <p>Автор: Gleb Shvets</p>
 </body>
 </html>
